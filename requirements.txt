@@ -1,6 +1,7 @@
 streamlit
 PyPDF2
-langchain
+langchain==0.0.353
+langchain-community
 langchain-openai
 langchain-pinecone
 langchain-text-splitters
