@@ -3,6 +3,7 @@ PyPDF2
 langchain
 langchain-openai
 langchain-pinecone
+langchain-text-splitters
 pinecone-client
 openai
 tiktoken
